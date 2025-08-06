@@ -1,12 +1,12 @@
-## Hi, I'm Bhavana!
+## Hi, I'm Bhavana! ✨
 
 👩🏽‍💻 I am a 3rd year Computer Science student at West Virginia University.<br>
-✨ Interested in ⇣<br>     
-  ✩ Full-Stack Web Development<br>     
-  ✩ Cloud Engineering <br>     
-  ✩ Artificial Intelligence<br>     
-  ✩ Machine Learning <br>
-🤍 Constantly enhancing my technical skills and learning new technologies to become a better programmer. <br>
+☁️ Interested in ⇣<br>     
+  -✩ Full-Stack Web Development<br>     
+  -✩ Cloud Engineering <br>     
+  -✩ Artificial Intelligence<br>     
+  -✩ Machine Learning <br>
+💗 Constantly enhancing my technical skills and learning new technologies to become a better programmer. <br>
 
 
 
