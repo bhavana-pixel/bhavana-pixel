@@ -3,10 +3,10 @@
 👩🏽‍💻 I am a 3rd year Computer Science student at West Virginia University.<br>
 
 ☁️ Interested in ⇣  
-- Full-Stack Web Development 
-- Cloud Engineering 
-- Artificial Intelligence 
-- Machine Learning 
+- Full-Stack Web Development ✩ 
+- Cloud Engineering ✩ 
+- Artificial Intelligence ✩ 
+- Machine Learning ✩ 
 
 💗 Constantly enhancing my technical skills and learning new technologies to become a better programmer. <br>
 
