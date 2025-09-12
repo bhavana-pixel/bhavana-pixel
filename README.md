@@ -1,6 +1,6 @@
 ## Hi, I'm Bhavana! ✨
 
-👩🏽‍💻 I am a 3rd year Computer Science student at West Virginia University.<br>
+👩🏽‍💻 I am a 3rd year Computer Science student at West Virginia University with a minor in General Business.<br>
 
 ☁️ Interested in ⇣  
 - Full-Stack Web Development ✩ 
